@@ -1,0 +1,21 @@
+.LicenseValidator {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+  width: 100%;
+  padding: 1rem;
+
+  p {
+    margin-bottom: 2.5rem;
+  }
+
+  form {
+    margin: 2.5rem auto;
+  }
+
+  input {
+    width: 20rem;
+  }
+}
